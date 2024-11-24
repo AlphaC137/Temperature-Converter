@@ -13,7 +13,7 @@ HTML: Structure of the webpage.
 CSS (Tailwind CSS): Utility-first CSS framework for styling.
 JavaScript: Handles the temperature conversion logic and dynamic user interactions.
 Font Awesome: Icons for visual enhancement.
-#How to Use
+# How to Use
 Open the index.html file in your browser.
 Enter a temperature value in the input field.
 Select the unit (Celsius, Fahrenheit, Kelvin, or Rankine).
